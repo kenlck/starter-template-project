@@ -20,7 +20,7 @@
     "tailwindcss": "^2.1.2"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^3.1.0",
+    "@netlify/plugin-nextjs": "^3.3.0",
     "@types/node": "^15.0.1",
     "@types/react": "^17.0.4",
     "@types/react-dom": "^17.0.3",
